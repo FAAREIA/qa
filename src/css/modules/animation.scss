@@ -1,0 +1,5 @@
+@keyframes fade {
+	to {
+		opacity: var(--kf--fade, 1);
+	}
+}

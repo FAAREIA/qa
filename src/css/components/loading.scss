@@ -1,0 +1,14 @@
+.loading {
+	animation: 0.8s ease forwards fade;
+	align-items: center;
+	background: rgba(255, 255, 255, 0.95);
+	bottom: 0;
+	display: flex;
+	justify-content: center;
+	left: 0;
+	opacity: 0;
+	position: fixed;
+	right: 0;
+	top: 0;
+	z-index: 800;
+}

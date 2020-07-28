@@ -1,0 +1,23 @@
+#questions {
+	padding: 6rem 0 2.4rem;
+	.load-more {
+		height: 3.6rem;
+		position: fixed;
+		right: 2.4rem;
+		top: 1.2rem;
+		z-index: 610;
+	}
+	h2 {
+		color: var(--c--primary);
+		margin-bottom: 7.2rem;
+	}
+	hr {
+		margin: 3rem 0;
+	}
+}
+
+@media (max-width: 29.99em) {
+	#questions h2 {
+		letter-spacing: -0.2rem;
+	}
+}
